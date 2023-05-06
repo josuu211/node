@@ -1,0 +1,2 @@
+# node
+creando un script
